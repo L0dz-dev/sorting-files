@@ -13,3 +13,8 @@ Example:
 txt:TextFiles- #Your txt files will be stored in Desktop/sorted/TEXTFILES/
 txt-           #Your txt files will be stored in Desktop/sorted/TXT/
 txt:-          #Your txt files will be stored in Desktop/sorted/TXT/
+
+#To put more than one extension in one folder simply use the same name
+Example:
+abc:Folder-
+def:Folder-
